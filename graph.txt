@@ -1,2 +1,12 @@
 tampilkan commit:
 git log --all --decorate --oneline --graph
+
+pindah antar commit:
+git checkout (kodecommit)
+
+untuk simpan:
+git add .
+git commit -am "komentar"
+
+cek status:
+git status
