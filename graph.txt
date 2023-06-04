@@ -10,3 +10,4 @@ git commit -am "komentar"
 
 cek status:
 git status
+njnj
