@@ -10,4 +10,6 @@ git commit -am "komentar"
 
 cek status:
 git status
-njnj
+
+mengembalikan file yang belum di commit;
+git stash
